@@ -1,2 +1,3 @@
 # react-boilerplate
-A blank react app that doesn't use npx create-react-app
+
+# A non 'npx create-react-app' React app boilerplate using React, Babel, and Webpack.
